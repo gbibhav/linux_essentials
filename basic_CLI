@@ -1,3 +1,8 @@
 cd /directory_name "change in to a directory"
 pwd "print current directory"
 ls "list all the contents" for more info type ls --help
+touch filename "to create file named filename"
+chown root:usrname file.txt "change owner ship of file"
+chmod 664 file.txt " 6 means RW 4 means RD"
+rm file.txt "remove file"
+mkdir directoryname  " make directory"
