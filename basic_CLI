@@ -1,0 +1,3 @@
+cd /directory_name "change in to a directory"
+pwd "print current directory"
+ls "list all the contents" for more info type ls --help
