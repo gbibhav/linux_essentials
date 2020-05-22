@@ -1,0 +1,4 @@
+sudo "means super user do  sudo gives privileges to edit files"
+sudo !! "the two !! sign means run the immediate previous command and by adding the sudo we run that as admin"
+sudo su "this is going to change to root account here | su | means switch user"
+su name_of_usr_account "here we will switch account to name_of_usr_account" 
