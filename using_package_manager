@@ -1,0 +1,8 @@
+apt-get "program to used to install application"
+apt-get install Anyprogram " install is just a action which acts upon Anyprogram" 
+we need to remember that this command install app which are located in repository if the app is not present the it will not install any apps 
+apt-get remove Anyprogram "this is simply going to remove Anyprogram"
+apt-cache search Anyprogram* "this is going to find anything that as a word Anyprogram"
+apt-cache policy Anyprogram "this will that if the program is installed in the system and it will show possible link to repository"
+dpkg -l ./Anyprogram.deb "this is going to install the app downloaded .deb file"
+apt-get upgrade "this is going upgrade all the packages"
